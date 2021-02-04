@@ -11,6 +11,14 @@ Community Contributed Content and Resources for Cisco Modeling Labs
 [Cisco Modeling Labs](http://developer.cisco.com/modeling-labs) (CML) is a network simulation platform from Cisco that allows for the creation of robust network topologies made up of nearly anything you can imagine. It supports virtual machine based devices using QCOW or KVM format, and can be tied into physical components by "bridging" the simulation to the real world.  
 
 This repository is intended to be a place for the CML community to find and share content that builds on top of the standard CML installation.  Examples of this content include: 
+<details>
+<summary>中文翻译</summary>
+    
+ ```
+ 这个仓库旨在位CML社区，提供一个查找和共享的地方，这些内容都是在标准CML安装基础上构建的。 此内容的示例包括：
+ ```
+
+</details>
 
 ### Node and Image Definition Files (节点和映像-Image定义文件)
 Included with CML is a library of ["reference platforms"](https://developer.cisco.com/docs/modeling-labs/#!reference-platforms-and-images) for a variety of Cisco network devices as well as images for Linux servers, traffic generators, unmanaged devices, etc.  However, CML allows a "bring your own image" model for any KVM supported image.  While we **cannot** share the actual QCOW image files for nodes that require proper licensing and rights from individual platform owners, we can post the CML YAML file definitions that have been created to support different platforms from Cisco as well as third party vendors. 
