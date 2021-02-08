@@ -15,7 +15,7 @@ This repository is intended to be a place for the CML community to find and shar
 <summary>中文翻译</summary>
     
  ```
- 这个仓库旨在位CML社区，提供一个查找和共享的地方，这些内容都是在标准CML安装基础上构建的。 此内容的示例包括：
+ 这个仓库旨在为CML社区，提供一个查找和共享的地方，这些内容都是在标准CML安装基础上构建的。 此内容的示例包括：
  ```
 
 </details>
